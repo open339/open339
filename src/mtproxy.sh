@@ -1,3 +1,4 @@
+
 #!/bin/bash
 
 WORKDIR=$(dirname $(readlink -f $0))
@@ -52,7 +53,7 @@ run_mtp() {
     cd $WORKDIR
 
     if is_running_mtp; then
-        echo -e "提醒：\033[33mMTProxy已经运行，请勿重复运行!\033[0m"
+        echo -e "提醒：[33mMTProxy已经运行，请勿重复运行![0m"
     else
         do_kill_process
         do_check_system_datetime_and_update
