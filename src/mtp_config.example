@@ -1,0 +1,8 @@
+#!/bin/bash
+# 固定密钥和端口，方便设置Telegram赞助商
+secret="4451023506896290666356006a67ce93" # 替换为你的密钥
+port=8443
+web_port=8888
+domain="cloudflare.com"
+proxy_tag="" # 如果有Telegram代理推广TAG，可以在这里设置
+provider=1
