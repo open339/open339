@@ -27,6 +27,12 @@
 <a>我们每周更新代理，请收藏本页面以获取最新的代理信息。</a>
 
 <a>公益代理分享，尽情享用！</a>
+
+<a>Telegram中文 连接：tg://setlanguage?lang=classic-zh-cn</a>
+
+<a>也可以打开网址：vpnvpn.cc 点击"TG简体中文" 进入频道点击"安装语言包"</a>
+
+<a>忠告：在Telegram使用过程中请谨言慎行，请勿发言有辱国家形象，以及参与任何违法犯罪活动！！！</a>
 </div>
 </header>
 </body>
